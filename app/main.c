@@ -23,8 +23,9 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  *
- * This file is part of the Monolinux RPi3 project.
+ * This file is part of the Monolinux Raspberry Pi 3 project.
  */
+
 #include <stdio.h>
 #include <errno.h>
 #include <stdlib.h>
