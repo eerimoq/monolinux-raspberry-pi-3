@@ -55,3 +55,5 @@ overwriting the existing files with the same name.
 
 Now insert the SD card into your Raspberry Pi 3 and power it up. The
 console is on the serial port on the P1 header.
+
+.. _Monolinux: https://github.com/eerimoq/monolinux
