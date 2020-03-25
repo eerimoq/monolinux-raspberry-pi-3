@@ -16,6 +16,11 @@ Features
 
 - Various libraries provided by `Monolinux`_.
 
+Limitations
+===========
+
+- Networking does not yet work.
+
 Build and run
 =============
 
